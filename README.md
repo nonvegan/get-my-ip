@@ -5,7 +5,7 @@ Get your Local and Public IPv4 Adresses with JAVA !
 
 ### UI
 
-![UI screenshot](get-my-ip.png)
+![UI screenshot](screenshots/get-my-ip.png)
 
 ### IDE 🔧
 * Built using NetBeans!
