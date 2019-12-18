@@ -9,4 +9,4 @@ Get your Local and Public IPv4 Adresses with JAVA !
 
 ###  How to Import to Netbeans🔌
 1. **Fork** it! 
-2. Dowload the ZIP and import it(File->Import Project->From ZIP)! OR Clone it(Team->Git->Clone..)!
+2. Dowload the ZIP and import it(File->Import Project->From ZIP)! **OR** Clone it(Team->Git->Clone..)!
