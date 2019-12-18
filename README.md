@@ -1,2 +1,11 @@
-# get-my-ip
-Get your Local IPv4 Adress and Public IP Adress with JAVA and Netbeans!
+# Get My Ip
+Get your Local and Public IPv4 Adresses with JAVA !
+
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+### UI
+
+![UI screenshot](get-my-ip.png)
+
+### IDE 🔧
+* Built using NetBeans!
