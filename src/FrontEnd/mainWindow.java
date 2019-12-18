@@ -191,7 +191,6 @@ public class mainWindow extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_showLocalIPCheckBoxActionPerformed
     public void setStyle() {
-        setIconImage(new ImageIcon(getClass().getResource("/Images/ipIcon.png")).getImage());
         retryIcon.setIcon(new ImageIcon(getClass().getResource("/Images/retryIcon.png")));
         Color backgroundColor = Color.decode("#3c4245");
         Color foregroundColor1 = Color.decode("#dfcdc3");
