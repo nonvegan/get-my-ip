@@ -10,7 +10,7 @@ import java.net.URL;
 import java.net.UnknownHostException;
 
 public class MyIP {
-    public static void main(String[] args) throws ClassNotFoundException {
+    public static void main(String[] args) {
         new mainWindow().setVisible(true);
     }
     public String getLocalIP() throws UnknownHostException {
